@@ -1,0 +1,126 @@
+[
+  {
+    "name": "Top sources",
+    "values": [
+      [
+        "youtube",
+        148374
+      ],
+      [
+        "chatgpt",
+        56052
+      ],
+      [
+        "drive",
+        18892
+      ],
+      [
+        "photos",
+        171
+      ],
+      [
+        "contacts",
+        12
+      ]
+    ]
+  },
+  {
+    "name": "Top titles",
+    "values": [
+      [
+        "package.json",
+        642
+      ],
+      [
+        "readme.md",
+        621
+      ],
+      [
+        "index.js",
+        603
+      ],
+      [
+        "license",
+        540
+      ],
+      [
+        "index.d.ts",
+        306
+      ]
+    ]
+  },
+  {
+    "name": "Top creators",
+    "values": [
+      [
+        "game changer shorts",
+        2070
+      ],
+      [
+        "make some noise",
+        1650
+      ],
+      [
+        "viva la dirt league",
+        1287
+      ],
+      [
+        "bedtime story co",
+        1209
+      ],
+      [
+        "the snooze factory",
+        1197
+      ]
+    ]
+  },
+  {
+    "name": "Peak activity hours",
+    "values": []
+  },
+  {
+    "name": "Import health",
+    "values": [
+      {
+        "name": "youtube",
+        "status": "healthy",
+        "files": 6
+      },
+      {
+        "name": "contacts",
+        "status": "healthy",
+        "files": 8
+      },
+      {
+        "name": "google_calendar",
+        "status": "partial",
+        "files": 2
+      },
+      {
+        "name": "drive",
+        "status": "healthy",
+        "files": 2
+      },
+      {
+        "name": "chatgpt",
+        "status": "healthy",
+        "files": 36
+      },
+      {
+        "name": "gmail",
+        "status": "missing",
+        "files": 0
+      },
+      {
+        "name": "meta",
+        "status": "missing",
+        "files": 0
+      },
+      {
+        "name": "photos",
+        "status": "healthy",
+        "files": 171
+      }
+    ]
+  }
+]

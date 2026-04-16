@@ -1,0 +1,27 @@
+{
+  "expected_sources": [
+    "youtube",
+    "drive",
+    "contacts",
+    "calendar",
+    "chatgpt",
+    "gmail",
+    "meta",
+    "photos",
+    "spotify"
+  ],
+  "present_sources": [
+    "chatgpt",
+    "contacts",
+    "drive",
+    "gmail",
+    "google_calendar",
+    "meta",
+    "photos",
+    "youtube"
+  ],
+  "missing_sources": [
+    "calendar",
+    "spotify"
+  ]
+}

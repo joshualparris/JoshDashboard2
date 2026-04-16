@@ -1,0 +1,27 @@
+[
+  {
+    "source": "youtube",
+    "count": 148374,
+    "share": 0.664
+  },
+  {
+    "source": "chatgpt",
+    "count": 56052,
+    "share": 0.251
+  },
+  {
+    "source": "drive",
+    "count": 18892,
+    "share": 0.085
+  },
+  {
+    "source": "photos",
+    "count": 171,
+    "share": 0.001
+  },
+  {
+    "source": "contacts",
+    "count": 12,
+    "share": 0.0
+  }
+]

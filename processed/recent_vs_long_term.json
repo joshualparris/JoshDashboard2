@@ -1,0 +1,118 @@
+{
+  "recent_top_categories": [
+    {
+      "category": "Entertainment / Comedy / Pop culture",
+      "count": 1770,
+      "share": 0.541
+    },
+    {
+      "category": "Family / Kids / Parenting",
+      "count": 816,
+      "share": 0.249
+    },
+    {
+      "category": "Tech / AI / Software",
+      "count": 414,
+      "share": 0.126
+    },
+    {
+      "category": "Faith / Christian / Worship",
+      "count": 114,
+      "share": 0.035
+    },
+    {
+      "category": "Health / Breathwork / Wellbeing",
+      "count": 87,
+      "share": 0.027
+    },
+    {
+      "category": "Education / Work / School",
+      "count": 72,
+      "share": 0.022
+    }
+  ],
+  "long_term_categories": [
+    {
+      "category": "Entertainment / Comedy / Pop culture",
+      "count": 97564,
+      "share": 0.437
+    },
+    {
+      "category": "Uncategorized",
+      "count": 56898,
+      "share": 0.255
+    },
+    {
+      "category": "Tech / AI / Software",
+      "count": 25635,
+      "share": 0.115
+    },
+    {
+      "category": "Family / Kids / Parenting",
+      "count": 24450,
+      "share": 0.109
+    },
+    {
+      "category": "Health / Breathwork / Wellbeing",
+      "count": 6027,
+      "share": 0.027
+    },
+    {
+      "category": "Education / Work / School",
+      "count": 5478,
+      "share": 0.025
+    },
+    {
+      "category": "Faith / Christian / Worship",
+      "count": 4875,
+      "share": 0.022
+    },
+    {
+      "category": "Home / Practical life / Admin",
+      "count": 1272,
+      "share": 0.006
+    }
+  ],
+  "category_drifts": [
+    {
+      "category": "Entertainment / Comedy / Pop culture",
+      "recent_share": 0.018,
+      "long_term_share": 0.437
+    },
+    {
+      "category": "Uncategorized",
+      "recent_share": 0.0,
+      "long_term_share": 0.255
+    },
+    {
+      "category": "Tech / AI / Software",
+      "recent_share": 0.016,
+      "long_term_share": 0.115
+    },
+    {
+      "category": "Family / Kids / Parenting",
+      "recent_share": 0.033,
+      "long_term_share": 0.109
+    },
+    {
+      "category": "Health / Breathwork / Wellbeing",
+      "recent_share": 0.014,
+      "long_term_share": 0.027
+    },
+    {
+      "category": "Education / Work / School",
+      "recent_share": 0.013,
+      "long_term_share": 0.025
+    },
+    {
+      "category": "Faith / Christian / Worship",
+      "recent_share": 0.023,
+      "long_term_share": 0.022
+    },
+    {
+      "category": "Home / Practical life / Admin",
+      "recent_share": 0.0,
+      "long_term_share": 0.006
+    }
+  ]
+}

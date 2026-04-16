@@ -1,0 +1,66 @@
+[
+  {
+    "name": "youtube",
+    "status": "healthy",
+    "files_discovered": 6,
+    "records_extracted": 148374,
+    "confidence": "high",
+    "notes": []
+  },
+  {
+    "name": "contacts",
+    "status": "healthy",
+    "files_discovered": 8,
+    "records_extracted": 12,
+    "confidence": "high",
+    "notes": []
+  },
+  {
+    "name": "google_calendar",
+    "status": "partial",
+    "files_discovered": 2,
+    "records_extracted": 0,
+    "confidence": "low",
+    "notes": []
+  },
+  {
+    "name": "drive",
+    "status": "healthy",
+    "files_discovered": 2,
+    "records_extracted": 18892,
+    "confidence": "high",
+    "notes": []
+  },
+  {
+    "name": "chatgpt",
+    "status": "healthy",
+    "files_discovered": 36,
+    "records_extracted": 56052,
+    "confidence": "high",
+    "notes": []
+  },
+  {
+    "name": "gmail",
+    "status": "missing",
+    "files_discovered": 0,
+    "records_extracted": 0,
+    "confidence": "low",
+    "notes": []
+  },
+  {
+    "name": "meta",
+    "status": "missing",
+    "files_discovered": 0,
+    "records_extracted": 0,
+    "confidence": "low",
+    "notes": []
+  },
+  {
+    "name": "photos",
+    "status": "healthy",
+    "files_discovered": 171,
+    "records_extracted": 171,
+    "confidence": "high",
+    "notes": []
+  }
+]

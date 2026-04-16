@@ -1,0 +1,26 @@
+[
+  {
+    "action": "Watched",
+    "count": 130200
+  },
+  {
+    "action": "Chat",
+    "count": 55920
+  },
+  {
+    "action": "Indexed",
+    "count": 19063
+  },
+  {
+    "action": "Searched",
+    "count": 18174
+  },
+  {
+    "action": "Chat_Shared",
+    "count": 132
+  },
+  {
+    "action": "Contact",
+    "count": 12
+  }
+]

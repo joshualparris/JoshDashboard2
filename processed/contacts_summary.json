@@ -1,0 +1,20 @@
+[
+  {
+    "source": "contacts",
+    "path": "raw_extracted\\Export - 16th April 2026-20260415T232400Z-3-001\\Export - 16th April 2026\\Contacts.csv",
+    "count": 6,
+    "sample_names": []
+  },
+  {
+    "source": "contacts",
+    "path": "raw_extracted\\drive-download-20260415T230800Z-3-001\\export_66822425\\contacts.csv",
+    "count": 0,
+    "sample_names": []
+  },
+  {
+    "source": "contacts",
+    "path": "raw_extracted\\drive-download-20260415T230800Z-3-001\\export_66822425(1)\\contacts.csv",
+    "count": 0,
+    "sample_names": []
+  }
+]

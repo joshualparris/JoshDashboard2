@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Privacy Settings.json",
+    "path": "raw_extracted\\Export - 16th April 2026-20260415T232400Z-3-001\\Export - 16th April 2026\\Privacy Settings.json",
+    "type": "dict",
+    "count": 2,
+    "top_keys": [
+      "disableNonContactAddToGroup",
+      "disableNonContactCall"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "top_interests": [
+    "hrv breathing exercise - night mode | heart coherence | take a deep breath",
+    "the happy song",
+    "\ud83c\udf19 goodnight farm: the ultimate counting adventure with farm animals \ud83d\udc37 | children's bedtime story",
+    "\ud83e\udd84 goodnight unicorns \ud83e\udd84 bedtime story for kids | relaxing & calming",
+    "hot potato \ud83e\udd54 kids songs and nursery rhymes \ud83c\udfb5 the wiggles"
+  ],
+  "recurring_themes": [
+    "game changer shorts",
+    "make some noise",
+    "viva la dirt league"
+  ],
+  "content_patterns": [
+    "youtube: 43400"
+  ],
+  "contacts_count": 6,
+  "communities_count": 0,
+  "privacy_summary": {
+    "source": "Privacy Settings.json",
+    "path": "raw_extracted\\Export - 16th April 2026-20260415T232400Z-3-001\\Export - 16th April 2026\\Privacy Settings.json",
+    "type": "dict",
+    "count": 2,
+    "top_keys": [
+      "disableNonContactAddToGroup",
+      "disableNonContactCall"
+    ]
+  },
+  "summary": "This initial profile is based on available normalized activity data. It prioritizes titles and sources from Spotify and YouTube activity, and also includes 6 contacts and 0 community entries discovered. Further detail will improve once more exports are available."
+}

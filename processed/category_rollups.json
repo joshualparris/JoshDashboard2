@@ -1,0 +1,42 @@
+[
+  {
+    "category": "Entertainment / Comedy / Pop culture",
+    "count": 97564,
+    "share": 0.437
+  },
+  {
+    "category": "Uncategorized",
+    "count": 56898,
+    "share": 0.255
+  },
+  {
+    "category": "Tech / AI / Software",
+    "count": 25635,
+    "share": 0.115
+  },
+  {
+    "category": "Family / Kids / Parenting",
+    "count": 24450,
+    "share": 0.109
+  },
+  {
+    "category": "Health / Breathwork / Wellbeing",
+    "count": 6027,
+    "share": 0.027
+  },
+  {
+    "category": "Education / Work / School",
+    "count": 5478,
+    "share": 0.025
+  },
+  {
+    "category": "Faith / Christian / Worship",
+    "count": 4875,
+    "share": 0.022
+  },
+  {
+    "category": "Home / Practical life / Admin",
+    "count": 1272,
+    "share": 0.006
+  }
+]
