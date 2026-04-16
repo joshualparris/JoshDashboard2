@@ -1,0 +1,2 @@
+# No external dependencies required for the legacy dashboard server.
+# Requires Python 3.9+ and the standard library.
